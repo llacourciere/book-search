@@ -14,7 +14,7 @@
 
 
 This is an app that allows a user to search for books and save them to their profile for later.
-![Xdream screenshot](./public/images/screencapture-localhost-3001-2022-10-24-16_45_12.png)
+![image](https://user-images.githubusercontent.com/108777796/207501326-cc7df6ee-edba-48b9-9df9-3ad8150e2282.png)
 
 ### Built With
 
