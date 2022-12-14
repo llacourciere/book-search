@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 # [Google-Book-search](https://github.com/llacourciere/book-search)
-#### [Book Search Deployed App]( https://polar-brushlands-67897.herokuapp.com)
+#### [Xdream Dream Journal Deployed App](https://nameless-falls-05978.herokuapp.com/)
 
 ### Table of Contents
 
